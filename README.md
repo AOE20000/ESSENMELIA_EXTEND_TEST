@@ -27,6 +27,3 @@
 
 ## API 参考
 - https://api.bgm.tv/v0/users/{username}/collections
-
-## 更新日志
-- **v1.1.0**: 适配全新 Promise API 架构；优化 UI 响应速度。
